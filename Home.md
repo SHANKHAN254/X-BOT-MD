@@ -2,8 +2,8 @@
 ## Some FAQs are listed below.
 | Topics |
 | --- |
-|***[Web](https://secktorbot.tech)***| 
-|***[SESSION-ID](https://secktorbot.tech/session)***| 
+|***[Web](https://citel-x.herokuapp.com)***| 
+|***[SESSION-ID](https://citel-x.herokuapp.com/id)***| 
 |***[Deployment](https://github.com/SamPandey001/Secktor-Md/wiki/Deployment)***| 
 |***[AUTO(Mute & Unmute)](https://github.com/SamPandey001/Secktor-Md/wiki/Auto(Mute-&-Unmute))***| 
 |***[BGM](https://github.com/SamPandey001/Secktor-Md/wiki/BGM)***| 
